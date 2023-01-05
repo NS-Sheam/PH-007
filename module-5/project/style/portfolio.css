@@ -70,10 +70,6 @@ nav a {
     align-items: center;
 }
 
-.banner .left {
-    padding-top: 290px;
-
-}
 
 .banner h3 {
     font-size: 45px;
@@ -101,7 +97,9 @@ nav a {
     background-color: transparent;
     border: #FD6E0A solid 2px;
     margin-left: 30px;
-    margin-bottom: 200px;
+}
+.banner img{
+   display: block;
 }
 
 /* Banner ends */
